@@ -1,0 +1,62 @@
+[
+  {
+    "category": "pengiriman",
+    "question": "Berapa lama waktu pengiriman?",
+    "answer": "Waktu pengiriman bervariasi tergantung lokasi. Untuk wilayah Jawa: 1-3 hari kerja. Luar Jawa: 3-7 hari kerja. Pengiriman ekspres tersedia dengan estimasi 1 hari kerja."
+  },
+  {
+    "category": "pengiriman",
+    "question": "Bagaimana cara melacak paket saya?",
+    "answer": "Kamu bisa melacak paket melalui halaman 'Pesanan Saya' di akun kamu, lalu klik nomor resi. Nomor resi juga dikirim via email setelah pesanan dikonfirmasi."
+  },
+  {
+    "category": "pengiriman",
+    "question": "Apakah ada biaya pengiriman?",
+    "answer": "Biaya pengiriman dihitung berdasarkan berat barang dan jarak tujuan. Gratis ongkir untuk pembelian di atas Rp 200.000 ke seluruh wilayah Indonesia."
+  },
+  {
+    "category": "pembelian",
+    "question": "Bagaimana cara melakukan pembelian?",
+    "answer": "Cara pembelian: (1) Pilih produk yang diinginkan, (2) Klik 'Tambah ke Keranjang', (3) Buka keranjang belanja, (4) Masukkan alamat pengiriman, (5) Pilih metode pembayaran, (6) Konfirmasi pesanan."
+  },
+  {
+    "category": "pembelian",
+    "question": "Metode pembayaran apa saja yang tersedia?",
+    "answer": "Kami menerima pembayaran melalui: Transfer Bank (BCA, Mandiri, BNI, BRI), Dompet Digital (GoPay, OVO, Dana, ShopeePay), Kartu Kredit/Debit, dan Bayar di Tempat (COD) untuk area tertentu."
+  },
+  {
+    "category": "pembelian",
+    "question": "Apakah saya bisa mengubah pesanan setelah dikonfirmasi?",
+    "answer": "Pesanan hanya bisa diubah dalam 1 jam setelah konfirmasi, selama belum masuk ke proses pengemasan. Hubungi CS kami segera jika ingin mengubah pesanan."
+  },
+  {
+    "category": "refund",
+    "question": "Bagaimana cara melakukan refund?",
+    "answer": "Untuk mengajukan refund: (1) Masuk ke 'Pesanan Saya', (2) Pilih pesanan yang ingin di-refund, (3) Klik 'Ajukan Pengembalian', (4) Isi alasan dan unggah foto bukti, (5) Tunggu konfirmasi dari tim kami dalam 1x24 jam."
+  },
+  {
+    "category": "refund",
+    "question": "Berapa lama proses refund?",
+    "answer": "Proses refund membutuhkan waktu 3-7 hari kerja setelah barang diterima kembali oleh penjual. Dana dikembalikan ke metode pembayaran asal."
+  },
+  {
+    "category": "refund",
+    "question": "Produk apa saja yang bisa di-refund?",
+    "answer": "Refund berlaku untuk produk yang: rusak saat tiba, tidak sesuai deskripsi, atau salah kirim. Produk tidak bisa di-refund jika sudah digunakan atau melewati batas 7 hari setelah diterima."
+  },
+  {
+    "category": "akun",
+    "question": "Bagaimana cara mendaftar akun?",
+    "answer": "Daftar akun dengan klik tombol 'Daftar' di halaman utama, masukkan email dan password, verifikasi email kamu, lalu lengkapi profil. Bisa juga daftar menggunakan akun Google."
+  },
+  {
+    "category": "akun",
+    "question": "Bagaimana jika lupa password?",
+    "answer": "Klik 'Lupa Password' di halaman login, masukkan email terdaftar, cek email untuk link reset password, lalu buat password baru. Link reset berlaku selama 30 menit."
+  },
+  {
+    "category": "promo",
+    "question": "Bagaimana cara menggunakan kode voucher?",
+    "answer": "Masukkan kode voucher di kolom 'Kode Promo' saat checkout sebelum konfirmasi pembayaran. Pastikan voucher masih berlaku dan syarat minimum pembelian terpenuhi."
+  }
+]
