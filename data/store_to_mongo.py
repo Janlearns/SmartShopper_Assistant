@@ -27,14 +27,16 @@ def store_common_info():
     documents_to_insert = []
 
     for item in dataset:
-        text_to_embed = f"{item['question']} {item['answer']}"
-        embedding = model.encode(text_to_embed).tolist()
+        embedding = model.encode(
+            item["question"],
+            normalize_embeddings=True
+        ).tolist()
 
         document = {
             "category": item["category"],
             "question": item["question"],
             "answer": item["answer"],
-            "embedding": embedding
+            "question_embedding": embedding
         }
 
         documents_to_insert.append(document)
